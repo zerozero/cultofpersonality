@@ -4,6 +4,5 @@ Posts are converted from .md to .html and stored in the public directory of my s
 
 Express server listens for the /payload POST from github which is configured to fire when content is pushed to the repo
 
-and..
-
+and
 ~~ Jon Rowe, 2014 ~~
